@@ -1,6 +1,7 @@
 streamlit
-librosa
-tensorflow
-plotly
-scikit-learn
+numpy
+librosa==0.10.1
+matplotlib>=3.5.0
 joblib
+scikit-learn
+streamlit-option-menu
