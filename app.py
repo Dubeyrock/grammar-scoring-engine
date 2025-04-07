@@ -7,7 +7,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from streamlit_option_menu import option_menu
 
-# ------------------ PAGE CONFIG ------------------ -
+# ------------------ PAGE CONFIG ------------------ ----
 st.set_page_config(page_title="Grammar Scoring Engine", page_icon="🗣️", layout="wide")
 
 # ------------------ LOAD MODEL ------------------
