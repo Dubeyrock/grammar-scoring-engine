@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-Your changes
-=======
-Remote changes
->>>>>>> origin/main
-
-
-
 import os
 import numpy as np
 import librosa
