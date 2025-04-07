@@ -28,6 +28,10 @@ A Streamlit-based web application that predicts the grammar quality of spoken En
 
 ## 📷 Screenshots
 
+![Screenshot (2119)](https://github.com/user-attachments/assets/d91c54bc-6a18-45c5-9151-01c820ea9b11)
+
+![Screenshot (2120)](https://github.com/user-attachments/assets/d78d3a07-85b8-4a3b-add8-465921a9b1cd)
+
 
 
 
