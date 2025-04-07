@@ -11,7 +11,7 @@ from streamlit_option_menu import option_menu
 st.set_page_config(page_title="Grammar Scoring Engine", page_icon="🗣️", layout="wide")
 
 # ------------------ LOAD MODEL ------------------
-MODEL_PATH = "C:/Users/dubey/Downloads/shl-intern-hiring-assessment (1)/notebook/grammar_scoring_model.pkl"
+MODEL_PATH = "grammar_scoring_model.pkl"
 model = joblib.load(MODEL_PATH)
 
 # ------------------ FEATURE EXTRACTOR ------------------
