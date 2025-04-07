@@ -35,7 +35,10 @@ https://grammar-scoring-engine-emsgbqhgtkwehwehpv4h6f.streamlit.app/
 
 ![Screenshot (2120)](https://github.com/user-attachments/assets/d78d3a07-85b8-4a3b-add8-465921a9b1cd)
 
-## demo videos 
+## 🎥 Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/bMhJ5Ro0k78/0.jpg)](https://www.youtube.com/watch?v=bMhJ5Ro0k78)
+
 
 
 
