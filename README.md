@@ -25,7 +25,8 @@ Your submission will be assessed based on your ability to preprocess the audio d
 - 📊 Visual insights: waveform + MFCC heatmap.
 - 📁 Planned: Batch scoring of multiple audio files.
 
-## 🧠 How It Works
+## 🧠 How It Works  
+
 
 - Extracts audio features using [Librosa](https://librosa.org/):  
   - MFCCs (Mel-frequency cepstral coefficients)  
