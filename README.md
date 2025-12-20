@@ -1,5 +1,4 @@
 # grammar-scoring-engine
-SHL Research Intern Hiring Assessment.
 
 ## 🗣️ Grammar Scoring Engine for Voice Samples
 
