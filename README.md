@@ -50,7 +50,7 @@ https://grammar-scoring-engine-emsgbqhgtkwehwehpv4h6f.streamlit.app/
 
 ## 🎥 Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/bMhJ5Ro0k78/0.jpg)](https://www.youtube.com/watch?v=bMhJ5Ro0k78)
+[![Watch the Demo](https://img.youtube.com/vi/bMhJ5Ro0k78/0.jpg)](https://www.youtube.com/watch?v=bMhJ5Ro0k78).
 
 
 
